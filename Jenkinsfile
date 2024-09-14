@@ -1,4 +1,3 @@
-# Jenkinsfile code
 pipeline 
 {
 	agent any
